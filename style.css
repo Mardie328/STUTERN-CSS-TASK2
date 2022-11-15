@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    color: brown;
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 40px;
+    margin-top: 30px;
+}
+
+.header1{
+    color: yellow;
+}
+
+#header1{
+    color: gray;
+}
+
+.header2{
+    color: yellow;
+}
+
+#header2{
+    color: gray;
+}
